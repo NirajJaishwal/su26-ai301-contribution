@@ -2,14 +2,14 @@
 
 **Contribution Number:** 1
 **Student:** Niraj Jaishwal  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Issue:** https://github.com/BasedHardware/omi/issues/3361
+**Status:** [Phase I Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I checked out the application, and I liked the work they are trying to do. It also matches most of the requirements to be 1st contribution. It uses Artificial Intelligence to perform several tasks. The tech stack of Python used in the project is what I am very comfortable with.
 
 ---
 
