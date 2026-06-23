@@ -59,25 +59,34 @@ As I am working in with the documentation part, I didn't have to stuggle a lot i
 ## Solution Approach
 
 ### Analysis
-
+It is not a problem. It is adding a documentation guide for contributing.
 [Your analysis of the root cause - what's causing the issue?]
 
 ### Proposed Solution
 
 [High-level description of your fix approach]
+I will add two sections to the contributor guide.rst file where I will implement section for adding a user guide page, adding a gallery example, using references in docs.
 
 ### Implementation Plan
 
 Using UMPIRE framework (adapted):
 
-**Understand:** [Restate the problem]
+**Understand:** 
+Contributer don't have clear guidance on how to add to the documentation. Specifically:
+* How to add a new page to the user guide
+* How to add an example to the docs
+* How to use references/citations in docs?
 
 **Match:** [What similar patterns/solutions exist in the codebase?]
+1. User guide Page already uses .rst format, also uses .jupyter-execute for executable code blocks
+2. Gallery example: already use .ipynb format
+3. References: BibTex format, alphabetized by author last name
 
 **Plan:** [Step-by-step implementation plan]
-1. [Modify file X to do Y]
-2. [Add function Z]
-3. [Update tests]
+1. Add a new section to contributor_guide.rst placed after "installation procedure" and before "How to contribute"
+2. Add three sections, adding a user guide page (explain .rst)
+3. Include concrete code examples like the sample .rst user guide structure, sample BibTeX entry
+4. Validite docs build
 
 **Implement:** [Link to your branch/commits as you work]
 
