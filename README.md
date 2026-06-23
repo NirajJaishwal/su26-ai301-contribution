@@ -17,39 +17,42 @@ I chose this because I wanted to get experience in open source and complete the 
 
 ### Problem Description
 
-[In your own words, what's broken or missing?]
+The Documentation guide needs to be updated based on the documentation contributions. 
 
 ### Expected Behavior
 
-[What should happen?]
+A new section and a subsection should be added to the docs/contributor_guide.rst file.
 
 ### Current Behavior
 
-[What actually happens?]
+The current documentation page doesn't have those sections.
 
 ### Affected Components
+These components is affected as the section will be added here, and those sections will be created probably at the top.
+tqec\docs\contributor_guide.rst
 
-[Which parts of the codebase are involved?]
-
----
 
 ## Reproduction Process
 
 ### Environment Setup
 
-[Notes on setting up your local development environment - challenges you faced, how you solved them]
+As I am working in with the documentation part, I didn't have to stuggle a lot in reproducing the environment. I try to validate the exisitng component and it was giving some trouble which is yet to be figured out.
 
 ### Steps to Reproduce
-
-1. [Step 1]
-2. [Step 2]
-3. [Observed result]
+1. Fork the Repo
+2. Clone the Repo to the local IDE
+3. Create a separate branch to work on
+4. Create a venv environment to work
 
 ### Reproduction Evidence
 
-- **Commit showing reproduction:** [Link to commit in your fork]
-- **Screenshots/logs:** [If applicable]
-- **My findings:** [What you discovered during reproduction]
+- **Commit showing reproduction:** https://github.com/NirajJaishwal/tqec
+- **Screenshots/logs:** (.venv) (base) PS C:\Users\niraj\Open Source Contribution\tqec> git branch
+* docs/update-contributing-guide
+  main
+(.venv) (base) PS C:\Users\niraj\Open Source Contribution\tqec> 
+
+- **My findings:** I was able to find out that the documentation needs to in the .rst file. So I should look at some examples of how to use the .rst file.
 
 ---
 
