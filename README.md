@@ -2,14 +2,14 @@
 
 **Contribution Number:** 1
 **Student:** Niraj Jaishwal  
-**Issue:** https://github.com/BasedHardware/omi/issues/3361
+**Issue:** [https://github.com/BasedHardware/omi/issues/3361](https://github.com/tqec/tqec/issues/718)
 **Status:** [Phase I Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-I checked out the application, and I liked the work they are trying to do. It also matches most of the requirements to be 1st contribution. It uses Artificial Intelligence to perform several tasks. The tech stack of Python used in the project is what I am very comfortable with.
+I chose this because I wanted to get experience in open source and complete the issue successfully. So I found this issue to be a good first issue to work on. 
 
 ---
 
