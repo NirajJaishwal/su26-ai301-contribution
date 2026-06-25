@@ -2,7 +2,7 @@
 
 **Contribution Number:** 1
 **Student:** Niraj Jaishwal  
-**Issue:** [https://github.com/BasedHardware/omi/issues/3361](https://github.com/tqec/tqec/issues/718)
+**Issue:** (https://github.com/tqec/tqec/issues/718)
 **Status:** [Phase I Complete]
 
 ---
@@ -88,24 +88,25 @@ Contributer don't have clear guidance on how to add to the documentation. Specif
 3. Include concrete code examples like the sample .rst user guide structure, sample BibTeX entry
 4. Validite docs build
 
-**Implement:** [Link to your branch/commits as you work]
+**Implement:** https://github.com/NirajJaishwal/tqec/tree/docs/update-contributing-guide
 
-**Review:** [Self-review checklist - does it follow the project's contribution guidelines?]
+**Review:** yes
 
-**Evaluate:** [How will you verify it works?]
+**Evaluate:** Reviewed formatting and structure for consistency with the existing contributor guide.
+Verified the new content is valid reStructuredText.
 
 ---
 
 ## Testing Strategy
 
 ### Unit Tests
-
+Not applicable
 - [ ] Test case 1: [Description]
 - [ ] Test case 2: [Description]
 - [ ] Test case 3: [Description]
 
 ### Integration Tests
-
+Not applicable for documentation
 - [ ] Integration scenario 1
 - [ ] Integration scenario 2
 
@@ -135,10 +136,29 @@ Contributer don't have clear guidance on how to add to the documentation. Specif
 
 ## Pull Request
 
-**PR Link:** [GitHub PR URL when submitted]
+**PR Link:** https://github.com/tqec/tqec/pull/981
 
 **PR Description:** [Draft or final PR description - much of the content above can be adapted]
+Description
+Adds a new "Contributing to documentation" section to docs/contributor_guide.rst with guidance on:
 
+Adding pages to the user guide
+Adding examples to the documentation gallery
+Clearing notebook outputs before committing
+Using references with sphinxcontrib-bibtex
+
+Fixes #718
+
+Please add the appropriate labels in the sidebar (e.g., bug fix, CI/CD, documentation).
+
+How Has This Been Tested?
+Reviewed formatting and structure for consistency with the existing contributor guide.
+Verified the new content is valid reStructuredText.
+
+Test Configuration:
+
+Python version: 3.13
+Operating system and system architecture: Windows 11
 **Maintainer Feedback:**
 - [Date]: [Summary of feedback received]
 - [Date]: [How you addressed it]
