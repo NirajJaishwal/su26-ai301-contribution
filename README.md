@@ -3,7 +3,7 @@
 **Contribution Number:** 1
 **Student:** Niraj Jaishwal  
 **Issue:** (https://github.com/tqec/tqec/issues/718)
-**Status:** [Phase I Complete]
+**Status:** [Phase IV Complete]
 
 ---
 
@@ -166,6 +166,7 @@ Operating system and system architecture: Windows 11
 **Status:** [Awaiting review / Iterating / Approved / Merged]
 
 ---
+Iterating: The draft PR request is in review because we found another issue that might cause some confusion in the documentation. So I have iterated and submit it for review.
 
 ## Learnings & Reflections
 
